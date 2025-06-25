@@ -15,6 +15,8 @@
 | OOP | 객체지향 프로그래밍 핵심 개념 정리 | [바로가기](./oop/README.md) |
 | Package | 패키지 구조와 접근 제어 이해 | [바로가기](./package/README.md) |
 | Access | 접근 제어자 종류와 역할 이해 | [바로가기](./access/README.md) |
+| Static | 자바 메모리 구조 및 static 키워드 이해 | [바로가기](./static/README.md) |
+
 
 
 ---
